@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+An undirected social network of frequent associations 
+between 62 dolphins in a community living off Doubtful Sound, 
+New Zealand, as compiled by Lusseau et al. (2003).
+
+Retrieved from: 
+http://www.casos.cs.cmu.edu/tools/datasets/external/index.php
+http://www-personal.umich.edu/~mejn/netdata/
+
+Reference:
+D. Lusseau, et al., "The bottlenose dolphin community of 
+Doubtful Sound features a large proportion of long-lasting 
+associations", Behavioral Ecology and Sociobiology 54, 
+396-405 (2003).
+-->
+<DynamicNetwork>
+   <MetaNetwork>
+      <nodes>
+         <nodeclass id="agent" type="agent">
+            <node id="0" name="Beak" />
+            <node id="1" name="Beescratch" />
+            <node id="2" name="Bumper" />
+            <node id="3" name="CCL" />
+            <node id="4" name="Cross" />
+            <node id="5" name="DN16" />
+            <node id="6" name="DN21" />
+            <node id="7" name="DN63" />
+            <node id="8" name="Double" />
+            <node id="9" name="Feather" />
+            <node id="10" name="Fish" />
+            <node id="11" name="Five" />
+            <node id="12" name="Fork" />
+            <node id="13" name="Gallatin" />
+            <node id="14" name="Grin" />
+            <node id="15" name="Haecksel" />
+            <node id="16" name="Hook" />
+            <node id="17" name="Jet" />
+            <node id="18" name="Jonah" />
+            <node id="19" name="Knit" />
+            <node id="20" name="Kringel" />
+            <node id="21" name="MN105" />
+            <node id="22" name="MN23" />
+            <node id="23" name="MN60" />
+            <node id="24" name="MN83" />
+            <node id="25" name="Mus" />
+            <node id="26" name="Notch" />
+            <node id="27" name="Number1" />
+            <node id="28" name="Oscar" />
+            <node id="29" name="Patchback" />
+            <node id="30" name="PL" />
+            <node id="31" name="Quasi" />
+            <node id="32" name="Ripplefluke" />
+            <node id="33" name="Scabs" />
+            <node id="34" name="Shmuddel" />
+            <node id="35" name="SMN5" />
+            <node id="36" name="SN100" />
+            <node id="37" name="SN4" />
+            <node id="38" name="SN63" />
+            <node id="39" name="SN89" />
+            <node id="40" name="SN9" />
+            <node id="41" name="SN90" />
+            <node id="42" name="SN96" />
+            <node id="43" name="Stripes" />
+            <node id="44" name="Thumper" />
+            <node id="45" name="Topless" />
+            <node id="46" name="TR120" />
+            <node id="47" name="TR77" />
+            <node id="48" name="TR82" />
+            <node id="49" name="TR88" />
+            <node id="50" name="TR99" />
+            <node id="51" name="Trigger" />
+            <node id="52" name="TSN103" />
+            <node id="53" name="TSN83" />
+            <node id="54" name="Upbang" />
+            <node id="55" name="Vau" />
+            <node id="56" name="Wave" />
+            <node id="57" name="Web" />
+            <node id="58" name="Whitetip" />
+            <node id="59" name="Zap" />
+            <node id="60" name="Zig" />
+            <node id="61" name="Zipfel" />
+         </nodeclass>
+      </nodes>
+      <networks>
+         <network id="association" isDirected="false" source="agent" target="agent">
+            <link source="8" target="3" value="1" />
+            <link source="9" target="5" value="1" />
+            <link source="9" target="6" value="1" />
+            <link source="10" target="0" value="1" />
+            <link source="10" target="2" value="1" />
+            <link source="13" target="5" value="1" />
+            <link source="13" target="6" value="1" />
+            <link source="13" target="9" value="1" />
+            <link source="14" target="0" value="1" />
+            <link source="14" target="3" value="1" />
+            <link source="15" target="0" value="1" />
+            <link source="16" target="14" value="1" />
+            <link source="17" target="1" value="1" />
+            <link source="17" target="6" value="1" />
+            <link source="17" target="9" value="1" />
+            <link source="17" target="13" value="1" />
+            <link source="18" target="15" value="1" />
+            <link source="19" target="1" value="1" />
+            <link source="19" target="7" value="1" />
+            <link source="20" target="8" value="1" />
+            <link source="20" target="16" value="1" />
+            <link source="20" target="18" value="1" />
+            <link source="21" target="18" value="1" />
+            <link source="22" target="17" value="1" />
+            <link source="24" target="14" value="1" />
+            <link source="24" target="15" value="1" />
+            <link source="24" target="18" value="1" />
+            <link source="25" target="17" value="1" />
+            <link source="26" target="1" value="1" />
+            <link source="26" target="25" value="1" />
+            <link source="27" target="1" value="1" />
+            <link source="27" target="7" value="1" />
+            <link source="27" target="17" value="1" />
+            <link source="27" target="25" value="1" />
+            <link source="27" target="26" value="1" />
+            <link source="28" target="1" value="1" />
+            <link source="28" target="8" value="1" />
+            <link source="28" target="20" value="1" />
+            <link source="29" target="10" value="1" />
+            <link source="29" target="18" value="1" />
+            <link source="29" target="21" value="1" />
+            <link source="29" target="24" value="1" />
+            <link source="30" target="7" value="1" />
+            <link source="30" target="19" value="1" />
+            <link source="30" target="28" value="1" />
+            <link source="31" target="17" value="1" />
+            <link source="32" target="9" value="1" />
+            <link source="32" target="13" value="1" />
+            <link source="33" target="12" value="1" />
+            <link source="33" target="14" value="1" />
+            <link source="33" target="16" value="1" />
+            <link source="33" target="21" value="1" />
+            <link source="34" target="14" value="1" />
+            <link source="34" target="33" value="1" />
+            <link source="35" target="29" value="1" />
+            <link source="36" target="1" value="1" />
+            <link source="36" target="20" value="1" />
+            <link source="36" target="23" value="1" />
+            <link source="37" target="8" value="1" />
+            <link source="37" target="14" value="1" />
+            <link source="37" target="16" value="1" />
+            <link source="37" target="21" value="1" />
+            <link source="37" target="33" value="1" />
+            <link source="37" target="34" value="1" />
+            <link source="37" target="36" value="1" />
+            <link source="38" target="14" value="1" />
+            <link source="38" target="16" value="1" />
+            <link source="38" target="20" value="1" />
+            <link source="38" target="33" value="1" />
+            <link source="39" target="36" value="1" />
+            <link source="40" target="0" value="1" />
+            <link source="40" target="7" value="1" />
+            <link source="40" target="14" value="1" />
+            <link source="40" target="15" value="1" />
+            <link source="40" target="33" value="1" />
+            <link source="40" target="36" value="1" />
+            <link source="40" target="37" value="1" />
+            <link source="41" target="1" value="1" />
+            <link source="41" target="9" value="1" />
+            <link source="41" target="13" value="1" />
+            <link source="42" target="0" value="1" />
+            <link source="42" target="2" value="1" />
+            <link source="42" target="10" value="1" />
+            <link source="42" target="30" value="1" />
+            <link source="43" target="14" value="1" />
+            <link source="43" target="29" value="1" />
+            <link source="43" target="33" value="1" />
+            <link source="43" target="37" value="1" />
+            <link source="43" target="38" value="1" />
+            <link source="44" target="2" value="1" />
+            <link source="44" target="20" value="1" />
+            <link source="44" target="34" value="1" />
+            <link source="44" target="38" value="1" />
+            <link source="45" target="8" value="1" />
+            <link source="45" target="15" value="1" />
+            <link source="45" target="18" value="1" />
+            <link source="45" target="21" value="1" />
+            <link source="45" target="23" value="1" />
+            <link source="45" target="24" value="1" />
+            <link source="45" target="29" value="1" />
+            <link source="45" target="37" value="1" />
+            <link source="46" target="43" value="1" />
+            <link source="47" target="0" value="1" />
+            <link source="47" target="10" value="1" />
+            <link source="47" target="20" value="1" />
+            <link source="47" target="28" value="1" />
+            <link source="47" target="30" value="1" />
+            <link source="47" target="42" value="1" />
+            <link source="49" target="34" value="1" />
+            <link source="49" target="46" value="1" />
+            <link source="50" target="14" value="1" />
+            <link source="50" target="16" value="1" />
+            <link source="50" target="20" value="1" />
+            <link source="50" target="33" value="1" />
+            <link source="50" target="42" value="1" />
+            <link source="50" target="45" value="1" />
+            <link source="51" target="4" value="1" />
+            <link source="51" target="11" value="1" />
+            <link source="51" target="18" value="1" />
+            <link source="51" target="21" value="1" />
+            <link source="51" target="23" value="1" />
+            <link source="51" target="24" value="1" />
+            <link source="51" target="29" value="1" />
+            <link source="51" target="45" value="1" />
+            <link source="51" target="50" value="1" />
+            <link source="52" target="14" value="1" />
+            <link source="52" target="29" value="1" />
+            <link source="52" target="38" value="1" />
+            <link source="52" target="40" value="1" />
+            <link source="53" target="43" value="1" />
+            <link source="54" target="1" value="1" />
+            <link source="54" target="6" value="1" />
+            <link source="54" target="7" value="1" />
+            <link source="54" target="13" value="1" />
+            <link source="54" target="19" value="1" />
+            <link source="54" target="41" value="1" />
+            <link source="55" target="15" value="1" />
+            <link source="55" target="51" value="1" />
+            <link source="56" target="5" value="1" />
+            <link source="56" target="6" value="1" />
+            <link source="57" target="5" value="1" />
+            <link source="57" target="6" value="1" />
+            <link source="57" target="9" value="1" />
+            <link source="57" target="13" value="1" />
+            <link source="57" target="17" value="1" />
+            <link source="57" target="39" value="1" />
+            <link source="57" target="41" value="1" />
+            <link source="57" target="48" value="1" />
+            <link source="57" target="54" value="1" />
+            <link source="58" target="38" value="1" />
+            <link source="59" target="3" value="1" />
+            <link source="59" target="8" value="1" />
+            <link source="59" target="15" value="1" />
+            <link source="59" target="36" value="1" />
+            <link source="59" target="45" value="1" />
+            <link source="60" target="32" value="1" />
+            <link source="61" target="2" value="1" />
+            <link source="61" target="37" value="1" />
+            <link source="61" target="53" value="1" />
+         </network>
+      </networks>
+   </MetaNetwork>
+</DynamicNetwork>

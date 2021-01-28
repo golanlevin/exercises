@@ -1,0 +1,346 @@
+{
+  "bytes": 370085,
+  "datahub": {
+    "created": "2017-11-08T21:56:54.976243",
+    "findability": "published",
+    "flowid": "core/global-temp/10",
+    "modified": "2018-08-06T09:10:10.445044",
+    "owner": "core",
+    "ownerid": "core"
+  },
+  "hash": "7936a34ecbb3625580f44c414deb8928",
+  "id": "core/global-temp",
+  "licenses": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
+  "name": "global-temp",
+  "related": [
+    {
+      "formats": [
+        "CSV",
+        "JSON"
+      ],
+      "path": "/core/co2-ppm",
+      "publisher": "core",
+      "title": "Trends in Atmospheric Carbon Dioxide"
+    },
+    {
+      "formats": [
+        "CSV",
+        "JSON"
+      ],
+      "path": "/core/co2-fossil-by-nation",
+      "publisher": "core",
+      "title": "CO2 Emissions from Fossil Fuels"
+    },
+    {
+      "formats": [
+        "CSV",
+        "JSON"
+      ],
+      "path": "/core/sea-level-rise",
+      "publisher": "core",
+      "title": "Sea level rise"
+    },
+    {
+      "formats": [
+        "CSV",
+        "JSON"
+      ],
+      "path": "/core/glacier-mass-balance",
+      "publisher": "core",
+      "title": "Glacier mass balance"
+    }
+  ],
+  "resources": [
+    {
+      "bytes": 4955,
+      "datahub": {
+        "type": "original"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/a26b154688b061cdd04f1df36e4408be.csv",
+      "encoding": "ISO-8859-2",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "annual_original",
+      "path": "archive/annual.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY",
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "description": "Average global mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "bytes": 69029,
+      "datahub": {
+        "type": "original"
+      },
+      "dpp:streamedFrom": "https://s3.amazonaws.com/rawstore.datahub.io/5a463e14023334e1f90454da11d3deee.csv",
+      "encoding": "ISO-8859-2",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "monthly_original",
+      "path": "archive/monthly.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY-MM",
+            "format": "any",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "description": "Monthly mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "bytes": 1015,
+      "datahub": {
+        "type": "derived/report"
+      },
+      "description": "Validation report for tabular data",
+      "dpp:streamedFrom": "/tmp/tmpxuxvao1_/core/global-temp/validation_report/data/32be8fde97857df1e4edfd32743bb263/validation_report.json",
+      "format": "json",
+      "hash": "32be8fde97857df1e4edfd32743bb263",
+      "name": "validation_report",
+      "path": "data/validation_report.json",
+      "profile": "data-resource"
+    },
+    {
+      "bytes": 5230,
+      "datahub": {
+        "derivedFrom": [
+          "annual"
+        ],
+        "type": "derived/csv"
+      },
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "/tmp/tmpxuxvao1_/core/global-temp/annual_csv/data/a26b154688b061cdd04f1df36e4408be/annual_csv.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "a26b154688b061cdd04f1df36e4408be",
+      "mediatype": "text/csv",
+      "name": "annual_csv",
+      "path": "data/annual_csv.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "rowcount": 274,
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY",
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "decimalChar": ".",
+            "description": "Average global mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "groupChar": "",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 82182,
+      "datahub": {
+        "derivedFrom": [
+          "monthly"
+        ],
+        "type": "derived/csv"
+      },
+      "dialect": {
+        "delimiter": ",",
+        "doubleQuote": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "dpp:streamedFrom": "/tmp/tmpxuxvao1_/core/global-temp/monthly_csv/data/c1321100952fc1b643ec604ae65a104a/monthly_csv.csv",
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "c1321100952fc1b643ec604ae65a104a",
+      "mediatype": "text/csv",
+      "name": "monthly_csv",
+      "path": "data/monthly_csv.csv",
+      "pathType": "local",
+      "profile": "data-resource",
+      "rowcount": 3288,
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY-MM",
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "decimalChar": ".",
+            "description": "Monthly mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "groupChar": "",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 13693,
+      "datahub": {
+        "derivedFrom": [
+          "annual"
+        ],
+        "type": "derived/json"
+      },
+      "dpp:streamedFrom": "/tmp/tmpxuxvao1_/core/global-temp/annual_json/data/529e69dbd597709e36ce11a5d0bb7243/annual_json.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "529e69dbd597709e36ce11a5d0bb7243",
+      "mediatype": "text/csv",
+      "name": "annual_json",
+      "path": "data/annual_json.json",
+      "pathType": "local",
+      "profile": "data-resource",
+      "rowcount": 274,
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY",
+            "name": "Year",
+            "type": "year"
+          },
+          {
+            "description": "Average global mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 190493,
+      "datahub": {
+        "derivedFrom": [
+          "monthly"
+        ],
+        "type": "derived/json"
+      },
+      "dpp:streamedFrom": "/tmp/tmpxuxvao1_/core/global-temp/monthly_json/data/4c7af7363a20648a68b8f2038a6765d6/monthly_json.json",
+      "encoding": "utf-8",
+      "format": "json",
+      "hash": "4c7af7363a20648a68b8f2038a6765d6",
+      "mediatype": "text/csv",
+      "name": "monthly_json",
+      "path": "data/monthly_json.json",
+      "pathType": "local",
+      "profile": "data-resource",
+      "rowcount": 3288,
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "type": "string"
+          },
+          {
+            "description": "YYYY-MM",
+            "format": "%Y-%m-%d",
+            "name": "Date",
+            "type": "date"
+          },
+          {
+            "description": "Monthly mean temperature anomalies in degrees Celsius relative to a base period. GISTEMP base period: 1951-1980. GCAG base period: 20th century average.",
+            "name": "Mean",
+            "type": "number"
+          }
+        ]
+      },
+      "signed": true
+    },
+    {
+      "bytes": 3488,
+      "dpp:streamedFrom": "/tmp/tmp4x71sgb4/README.md",
+      "format": "md",
+      "name": "readme",
+      "path": "README.md"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GISTEMP Global Land-Ocean Temperature Index",
+      "path": "http://data.giss.nasa.gov/gistemp",
+      "title": "GISTEMP Global Land-Ocean Temperature Index"
+    },
+    {
+      "name": "Global component of Climate at a Glance (GCAG)",
+      "path": "http://www.ncdc.noaa.gov/cag/time-series/global",
+      "title": "Global component of Climate at a Glance (GCAG)"
+    }
+  ],
+  "title": "Global Temperature Time Series",
+  "version": "0.1.0",
+  "views": [
+    {
+      "name": "graph",
+      "spec": {
+        "group": "Year",
+        "series": [
+          "Mean"
+        ],
+        "type": "column"
+      },
+      "specType": "simple",
+      "title": "Monthly mean temperature anomalies in degrees Celsius relative to a base period"
+    }
+  ]
+}
