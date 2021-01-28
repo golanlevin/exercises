@@ -1,0 +1,3 @@
+ system template caps
+ digital firmware name Web
+ encrypt Java shell

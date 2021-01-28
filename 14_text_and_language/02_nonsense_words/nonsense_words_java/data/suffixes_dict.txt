@@ -1,0 +1,29 @@
+-s third person singular present tense
+-ed past tense
+-t past tense
+-ing progressive/continuous aspect
+-en past participle
+-s plural number
+-en plural number (irregular)
+-er comparative degree
+-est superlative degree
+-ise/-ize (usually changes nouns into verbs)
+-fy (usually changes nouns into verbs)
+-ly (usually changes adjectives into adverbs, but also some nouns into adjectives)
+-ful (usually changes nouns into adjectives)
+-able/-ible (usually changes verbs into adjectives)
+-hood (usually class-maintaining, with the word class remaining a noun)
+-ess (usually class-maintaining, with the word class remaining a noun)
+-ness (usually changes adjectives into nouns)
+-less (usually changes nouns into adjectives)
+-ism (usually class-maintaining, with the word class remaining a noun)
+-ment (usually changes verbs into nouns)
+-ist (usually class-maintaining, with the word class remaining a noun)
+-al (usually changes nouns into adjectives)
+-ish (usually changes nouns into adjectives/ class-maintaining, with the word class remaining an adjective)
+-oid (usually changes nouns into adjectives)
+-like (usually changes nouns into adjectives)
+-ity (usually changes adjectives into nouns)
+-tion (usually changes verbs into noun)
+-logy/-ology (usually class-maintaining, with the word class remaining a noun)
+-ant (usually changes verbs into nouns, often referring to a human agent)
