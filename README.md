@@ -21,12 +21,12 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 
 
 01. [**Graphic Elements**](01_graphic_elements)
-	* 01_one_with_everything
-	* 02_quadrilateral_zoo
-	* 03_initials
-	* 04_braille_tool
-	* 05_mondrian
-	* 08_kaleidoscope
+	* [01_one_with_everything](01_graphic_elements/01_one_with_everything)
+	* [02_quadrilateral_zoo](01_graphic_elements/02_quadrilateral_zoo)
+	* [03_initials](01_graphic_elements/03_initials)
+	* [04_braille_tool](01_graphic_elements/04_braille_tool)
+	* [05_mondrian](01_graphic_elements/05_mondrian)
+	* [08_kaleidoscope](01_graphic_elements/08_kaleidoscope)
 02. [**Iteration**](02_iteration)
 	* 01_simple_iteration_seven_circles
 	* 02_transitioning_rectangles
