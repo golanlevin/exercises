@@ -58,28 +58,28 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [12_color_survey](03_color/12_color_survey)
 	* [13_palette_from_photo](03_color/13_palette_from_photo)
 04. [**Conditional Testing**](04_conditional_testing)
-	* 01_left_or_right
-	* 02_billiard_ball
-	* 03_one_person_pong
-	* 04_choose_your_own_adventure
-	* 05_state_machine_1
-	* 06_state_machine_2
-	* 07_state_machine_3
-	* 08_state_machine_4
+	* [01_left_or_right](04_conditional_testing/01_left_or_right)
+	* [02_billiard_ball](04_conditional_testing/02_billiard_ball)
+	* [03_one_person_pong](04_conditional_testing/03_one_person_pong)
+	* [04_choose_your_own_adventure](04_conditional_testing/04_choose_your_own_adventure)
+	* [05_state_machine_1](04_conditional_testing/05_state_machine_1)
+	* [06_state_machine_2](04_conditional_testing/06_state_machine_2)
+	* [07_state_machine_3](04_conditional_testing/07_state_machine_3)
+	* [08_state_machine_4](04_conditional_testing/08_state_machine_4)
 05. [**Unpredictability**](05_unpredictability)
-	* 01_coin_toss
-	* 02_roll_the_dice
-	* 03_exquisite_corpse_machine
-	* 04_intermittent_events
-	* 05_order_to_chaos
-	* 06_drunk_walk_1_brownian_motion
-	* 07_drunk_walk_2_random_lattice_walk
-	* 08_drunk_walk_3_smoothed_noise
-	* 09_ten_print
-	* 10_duotone_truchet_tile_java
-	* 11_hitomezashi_sashiko_stitching
-	* 12_noise_mountains
-	* 13_imaginary_islands
+	* [01_coin_toss](05_unpredictability/01_coin_toss)
+	* [02_roll_the_dice](05_unpredictability/02_roll_the_dice)
+	* [03_exquisite_corpse_machine](05_unpredictability/03_exquisite_corpse_machine)
+	* [04_intermittent_events](05_unpredictability/04_intermittent_events)
+	* [05_order_to_chaos](05_unpredictability/05_order_to_chaos)
+	* [06_drunk_walk_1_brownian_motion](05_unpredictability/06_drunk_walk_1_brownian_motion)
+	* [07_drunk_walk_2_random_lattice_walk](05_unpredictability/07_drunk_walk_2_random_lattice_walk)
+	* [08_drunk_walk_3_smoothed_noise](05_unpredictability/08_drunk_walk_3_smoothed_noise)
+	* [09_ten_print](05_unpredictability/09_ten_print)
+	* [10_duotone_truchet_tile_java](05_unpredictability/10_duotone_truchet_tile_java)
+	* [11_hitomezashi_sashiko_stitching](05_unpredictability/11_hitomezashi_sashiko_stitching)
+	* [12_noise_mountains](05_unpredictability/12_noise_mountains)
+	* [13_imaginary_islands](05_unpredictability/13_imaginary_islands)
 06. [**Arrays**](06_arrays)
 	* 01_living_line_1
 	* 02_living_line_2
