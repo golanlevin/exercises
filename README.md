@@ -27,25 +27,23 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [04_braille_tool](01_graphic_elements/04_braille_tool)
 	* [05_mondrian](01_graphic_elements/05_mondrian)
 	* [08_kaleidoscope](01_graphic_elements/08_kaleidoscope)
-
 02. [**Iteration**](02_iteration)
-	* 01_simple_iteration_seven_circles
-	* 02_transitioning_rectangles
-	* 03_string_art_challenge
-	* 04_mini_calendar
-	* 05_receding_landscape
-	* 06_lines_to_the_cursor
-	* 07_color_bar_gradient
-	* 08_dashed_line
-	* 09_nested_iteration_checkers
-	* 10_iteration_with_functions
-	* 11_stochastic_elements
-	* 12_interrupted_grid
-	* 13_geometric_progression
-	* 14_moire_patterns
-	* 15_recoding_schotter
-	* 16_hexagonal_grid
-
+	* [01_simple_iteration_seven_circles](02_iteration/01_simple_iteration_seven_circles)
+	* [02_transitioning_rectangles](02_iteration/02_transitioning_rectangles)
+	* [03_string_art_challenge](02_iteration/03_string_art_challenge)
+	* [04_mini_calendar](02_iteration/04_mini_calendar)
+	* [05_receding_landscape](02_iteration/05_receding_landscape)
+	* [06_lines_to_the_cursor](02_iteration/06_lines_to_the_cursor)
+	* [07_color_bar_gradient](02_iteration/07_color_bar_gradient)
+	* [08_dashed_line](02_iteration/08_dashed_line)
+	* [09_nested_iteration_checkers](02_iteration/09_nested_iteration_checkers)
+	* [10_iteration_with_functions](02_iteration/10_iteration_with_functions)
+	* [11_stochastic_elements](02_iteration/11_stochastic_elements)
+	* [12_interrupted_grid](02_iteration/12_interrupted_grid)
+	* [13_geometric_progression](02_iteration/13_geometric_progression)
+	* [14_moire_patterns](02_iteration/14_moire_patterns)
+	* [15_recoding_schotter](02_iteration/15_recoding_schotter)
+	* [16_hexagonal_grid](02_iteration/16_hexagonal_grid)
 03. [**Color**](03_color)
 	* 02_overlapping_color
 	* 03_constructing_a_gradient
