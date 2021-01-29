@@ -45,18 +45,18 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [15_recoding_schotter](02_iteration/15_recoding_schotter)
 	* [16_hexagonal_grid](02_iteration/16_hexagonal_grid)
 03. [**Color**](03_color)
-	* 02_overlapping_color
-	* 03_constructing_a_gradient
-	* 04_color_wheel
-	* 05_threshold_of_perception
-	* 06_interactive_complement
-	* 07_accented_palette
-	* 08_split_complements
-	* 09_albers_color_relativity_1
-	* 10_albers_color_relativity_2
-	* 11_color_inspector
-	* 12_color_survey
-	* 13_palette_from_photo
+	* [02_overlapping_color](03_color/02_overlapping_color)
+	* [03_constructing_a_gradient](03_color/03_constructing_a_gradient)
+	* [04_color_wheel](03_color/04_color_wheel)
+	* [05_threshold_of_perception](03_color/05_threshold_of_perception)
+	* [06_interactive_complement](03_color/06_interactive_complement)
+	* [07_accented_palette](03_color/07_accented_palette)
+	* [08_split_complements](03_color/08_split_complements)
+	* [09_albers_color_relativity_1](03_color/09_albers_color_relativity_1)
+	* [10_albers_color_relativity_2](03_color/10_albers_color_relativity_2)
+	* [11_color_inspector](03_color/11_color_inspector)
+	* [12_color_survey](03_color/12_color_survey)
+	* [13_palette_from_photo](03_color/13_palette_from_photo)
 04. [**Conditional Testing**](04_conditional_testing)
 	* 01_left_or_right
 	* 02_billiard_ball
