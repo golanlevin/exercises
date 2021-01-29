@@ -174,51 +174,51 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [12_web_scraping](13_visualization/)
 	* [13_one_dataset_four_ways](13_visualization/)
 14. [**Text and Language**](14_text_and_language)
-	* 01_string_search
-	* 02_nonsense_words
-	* 03_letter_frequency
-	* 04_letter_pair_frequency
-	* 05_average_word_length
-	* 06_sorting_words
-	* 07_cut-up_machine
-	* 08_bigram_calculator
-	* 09_dammit_jim
-	* 10_knock_knock_joke_generator
-	* 11_translator_pig_latin
-	* 12_argots_and_language_games
-	* 14_rhyming_couplets
-	* 15_haiku_finder
-	* 16_markov_text_generator
-	* 17_limerick
+	* [01_string_search](14_text_and_language/)
+	* [02_nonsense_words](14_text_and_language/)
+	* [03_letter_frequency](14_text_and_language/)
+	* [04_letter_pair_frequency](14_text_and_language/)
+	* [05_average_word_length](14_text_and_language/)
+	* [06_sorting_words](14_text_and_language/)
+	* [07_cut-up_machine](14_text_and_language/)
+	* [08_bigram_calculator](14_text_and_language/)
+	* [09_dammit_jim](14_text_and_language/)
+	* [10_knock_knock_joke_generator](14_text_and_language/)
+	* [11_translator_pig_latin](14_text_and_language/)
+	* [12_argots_and_language_games](14_text_and_language/)
+	* [14_rhyming_couplets](14_text_and_language/)
+	* [15_haiku_finder](14_text_and_language/)
+	* [16_markov_text_generator](14_text_and_language/)
+	* [17_limerick](14_text_and_language/)
 15. [**Simulation**](15_simulation)
-	* 01_recursive_tree
-	* 02_fireworks_particle_shower
-	* 05_cursor_particles
-	* 06_flow_field
-	* 07_spring
-	* 08_circle_packing
-	* 09_conways_life
-	* 10_diffusion_limited_aggregation
-	* 11_snowflake
-	* 13_differential_growth
+	* [01_recursive_tree](15_simulation/)
+	* [02_fireworks_particle_shower](15_simulation/)
+	* [05_cursor_particles](15_simulation/)
+	* [06_flow_field](15_simulation/)
+	* [07_spring](15_simulation/)
+	* [08_circle_packing](15_simulation/)
+	* [09_conways_life](15_simulation/)
+	* [10_diffusion_limited_aggregation](15_simulation/)
+	* [11_snowflake](15_simulation/)
+	* [13_differential_growth](15_simulation/)
 16. [**Machine Learning**](16_machine_learning)
-	* 04_what_do_you_see
-	* 05_dont_touch_your_face
-	* 06_emoji_translator
-	* 10_environmental_sound_clock
+	* [04_what_do_you_see](16_machine_learning/)
+	* [05_dont_touch_your_face](16_machine_learning/)
+	* [06_emoji_translator](16_machine_learning/)
+	* [10_environmental_sound_clock](16_machine_learning/)
 17. [**Sound**](17_sound)
-	* 01_theremin
-	* 02_sequencer_I
-	* 03_sequencer_II
-	* 08_visualizer
-	* 09_data_sonification
-	* 10_delay_line_effect
+	* [01_theremin](17_sound/)
+	* [02_sequencer_I](17_sound/)
+	* [03_sequencer_II](17_sound/)
+	* [08_visualizer](17_sound/)
+	* [09_data_sonification](17_sound/)
+	* [10_delay_line_effect](17_sound/)
 18. [**Games**](18_games)
-	* 02_collision_detection
-	* 03_whack_a_mole
-	* 04_WASD_navigation
-	* 05_recoding_a_classic
-	* 06_physics_fun
-	* 07_level_designer
+	* [02_collision_detection](18_games/)
+	* [03_whack_a_mole](18_games/)
+	* [04_WASD_navigation](18_games/)
+	* [05_recoding_a_classic](18_games/)
+	* [06_physics_fun](18_games/)
+	* [07_level_designer](18_games/)
 
 
