@@ -14,14 +14,15 @@ Where possible, we have attempted to provide solutions in all of the following c
 
 ### Example Solutions
 
-01. **Graphic Elements**
+
+01. [**Graphic Elements**](01_graphic_elements)
 	* 01_one_with_everything
 	* 02_quadrilateral_zoo
 	* 03_initials
 	* 04_braille_tool
 	* 05_mondrian
 	* 08_kaleidoscope
-02. **Iteration**
+02. [**Iteration**](02_iteration)
 	* 01_simple_iteration_seven_circles
 	* 02_transitioning_rectangles
 	* 03_string_art_challenge
@@ -38,7 +39,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 14_moire_patterns
 	* 15_recoding_schotter
 	* 16_hexagonal_grid
-03. **Color**
+03. [**Color**](03_color)
 	* 02_overlapping_color
 	* 03_constructing_a_gradient
 	* 04_color_wheel
@@ -51,7 +52,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 11_color_inspector
 	* 12_color_survey
 	* 13_palette_from_photo
-04. **Conditional Testing**
+04. [**Conditional Testing**](04_conditional_testing)
 	* 01_left_or_right
 	* 02_billiard_ball
 	* 03_one_person_pong
@@ -60,7 +61,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 06_state_machine_2
 	* 07_state_machine_3
 	* 08_state_machine_4
-05. **Unpredictability**
+05. [**Unpredictability**](05_unpredictability)
 	* 01_coin_toss
 	* 02_roll_the_dice
 	* 03_exquisite_corpse_machine
@@ -74,7 +75,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 11_hitomezashi_sashiko_stitching
 	* 12_noise_mountains
 	* 13_imaginary_islands
-06. **Arrays**
+06. [**Arrays**](06_arrays)
 	* 01_living_line_1
 	* 02_living_line_2
 	* 03_living_line_3
@@ -83,7 +84,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 06_plant_the_flag
 	* 07_longest_line
 	* 08_reordering_rectangles
-07. **Time and Interactivity**
+07. [**Time and Interactivity**](07_time_and_interactivity)
 	* 01_eyes_following_cursor
 	* 02_fuse_or_progress_bar
 	* 03_ripples_in_a_pond
@@ -92,7 +93,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 06_easing_filtering_a_variable
 	* 07_smoothing
 	* 08_audio_sensitive
-08. **Typography**
+08. [**Typography**](08_typography)
 	* 01_ransom_letter
 	* 02_one_line_typewriter
 	* 03_dynamic_text
@@ -106,7 +107,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 11_glyph_hacking
 	* 12_tiny_word_processor
 	* 13_ascii_vision
-09. **Curves**
+09. [**Curves**](09_curves)
 	* 01_butt_generator
 	* 02_parabola
 	* 03_one_circle_three_ways
@@ -119,7 +120,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 10_osculating_circle
 	* 11_circle_morphing
 	* 12_shaping_functions
-10. **Shapes**
+10. [**Shapes**](10_shapes)
 	* 01_make_a_star
 	* 02_random_splat
 	* 03_connect_the_dots
@@ -131,7 +132,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 09_detecting_high_curvature
 	* 10_hand_drawn_graphics_library
 	* 11_blob
-11. **Geometry**
+11. [**Geometry**](11_geometry)
 	* 01_midpoint_of_a_line_segment
 	* 02_intersection_of_two_rectangles
 	* 03_construction_of_a_perpendicular
@@ -144,7 +145,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 10_triangle_circumcenter
 	* 11_triangle_orthocenter
 	* 12_triangle_incenter
-12. **Image**
+12. [**Image**](12_image)
 	* 01_collage_machine
 	* 02_color_of_a_pixel
 	* 03_subsample_and_downsample
@@ -153,7 +154,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 06_image_averaging
 	* 07_edge_detector_sobel_filter
 	* 08_pixel_sort
-13. **Visualization**
+13. [**Visualization**](13_visualization)
 	* 01_text_message_isotype
 	* 02_temperature_timeline
 	* 03_pie_chart
@@ -167,7 +168,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 11_real_time_iss
 	* 12_web_scraping
 	* 13_one_dataset_four_ways
-14. **Text and Language**
+14. [**Text and Language**](14_text_and_language)
 	* 01_string_search
 	* 02_nonsense_words
 	* 03_letter_frequency
@@ -184,7 +185,7 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 15_haiku_finder
 	* 16_markov_text_generator
 	* 17_limerick
-15. **Simulation**
+15. [**Simulation**](15_simulation)
 	* 01_recursive_tree
 	* 02_fireworks_particle_shower
 	* 05_cursor_particles
@@ -195,22 +196,31 @@ Where possible, we have attempted to provide solutions in all of the following c
 	* 10_diffusion_limited_aggregation
 	* 11_snowflake
 	* 13_differential_growth
-16. **Machine Learning**
+16. [**Machine Learning**](16_machine_learning)
 	* 04_what_do_you_see
 	* 05_dont_touch_your_face
 	* 06_emoji_translator
 	* 10_environmental_sound_clock
-17. **Sound**
+17. [**Sound**](17_sound)
 	* 01_theremin
 	* 02_sequencer_I
 	* 03_sequencer_II
 	* 08_visualizer
 	* 09_data_sonification
 	* 10_delay_line_effect
-18. **Games**
+18. [**Games**](18_games)
 	* 02_collision_detection
 	* 03_whack_a_mole
 	* 04_WASD_navigation
 	* 05_recoding_a_classic
 	* 06_physics_fun
 	* 07_level_designer
+
+	
+
+
+
+
+
+
+
