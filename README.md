@@ -27,6 +27,7 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [04_braille_tool](01_graphic_elements/04_braille_tool)
 	* [05_mondrian](01_graphic_elements/05_mondrian)
 	* [08_kaleidoscope](01_graphic_elements/08_kaleidoscope)
+
 02. [**Iteration**](02_iteration)
 	* 01_simple_iteration_seven_circles
 	* 02_transitioning_rectangles
@@ -44,6 +45,7 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* 14_moire_patterns
 	* 15_recoding_schotter
 	* 16_hexagonal_grid
+
 03. [**Color**](03_color)
 	* 02_overlapping_color
 	* 03_constructing_a_gradient
