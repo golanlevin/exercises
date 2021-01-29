@@ -81,14 +81,14 @@ This work was supported by grant #1855045–34–19 from the Media Arts Program 
 	* [12_noise_mountains](05_unpredictability/12_noise_mountains)
 	* [13_imaginary_islands](05_unpredictability/13_imaginary_islands)
 06. [**Arrays**](06_arrays)
-	* 01_living_line_1
-	* 02_living_line_2
-	* 03_living_line_3
-	* 04_calligraphic_polyline
-	* 05_animated-walk-cycle
-	* 06_plant_the_flag
-	* 07_longest_line
-	* 08_reordering_rectangles
+	* [01_living_line_1](06_arrays/01_living_line_1)
+	* [02_living_line_2](06_arrays/02_living_line_2)
+	* [03_living_line_3](06_arrays/03_living_line_3)
+	* [04_calligraphic_polyline](06_arrays/04_calligraphic_polyline)
+	* [05_animated_walk_cycle](06_arrays/05_animated_walk_cycle)
+	* [06_plant_the_flag](06_arrays/06_plant_the_flag)
+	* [07_longest_line](06_arrays/07_longest_line)
+	* [08_reordering_rectangles](06_arrays/08_reordering_rectangles)
 07. [**Time and Interactivity**](07_time_and_interactivity)
 	* 01_eyes_following_cursor
 	* 02_fuse_or_progress_bar
