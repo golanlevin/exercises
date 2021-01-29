@@ -4,7 +4,7 @@ The repository contains example solutions for the Exercises presented in [*Code 
 
 These solutions were developed and/or ported by Golan Levin and Tega Brain with the assistance of Lingdong Huang, Tatyana Mustakos, Cassie Scheirer, and Xinyi (Joyce) Wang. In some cases and where indicated, solutions have been adapted from code by Dan Shiffman and others. 
 
-Where possible, we have attempted to provide solutions in all of the following computer programming languages and toolkits. We welcome contributions to add additional ports and/or languages.
+Where possible, we have attempted to provide solutions in all of the following computer programming languages and toolkits. We welcome contributions to add additional ports and/or languages. 
 
 * Java ([Processing](https://processing.org/))
 * Python ([Processing.py](https://py.processing.org/))
