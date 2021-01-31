@@ -1,27 +1,45 @@
 # Checklist
 
+### **Key:** 
+
+* ✓        Done: exists, tested, and works as described
+* ~        Exists and works, but needs attention or updates
+* B        Generates book illustration, but does not actually work
+* X        No code solution should be made
+* N        Do not port (or no easy port is possible)
+* *Blank*      Status unknown
+
+### **Languages:** 
+
+* **Java**: Processing v.3.5.4+
+* **JS**: Javascript using p5.js v.1.0+
+* **PY**: Python using Processing.py v.3.5.4+
+
 ---
 
-### Graphic Elements
+### 01. Graphic Elements
 
 | Exercise               | Java| JS  |  PY |
 | :--------------------- | --- | --- | --- |
-| 01_one_with_everything |  x  |     |     |
-| 02_quadrilateral_zoo   |  x  |     |     |
-| 03_initials            |  x  |     |     |
-| 04_braille_tool        |  x  |     |     |
-| 05_mondrian            |  x  |     |     |
-| 08_kaleidoscope        |  x  |     |     |
+| 01_one_with_everything |  ✓  |     |     |
+| 02_quadrilateral_zoo   |  ✓  |     |     |
+| 03_initials            |  ✓  |  ~  |  ~  |
+| 04_braille_tool        |  ✓  |     |     |
+| 05_mondrian            |  ✓  |     |     |
+| 06_coding_stadia_II    |  X  |  X  |  X  | 
+| 07_draw_then_code      |  X  |  X  |  X  | 
+| 08_kaleidoscope        |  ✓  |     |     |
 
 
-### Iteration
+
+### 02. Iteration
 
 | Exercise                          | Java| JS  |  PY |
 | :-------------------------------- | --- | --- | --- |
-| 01_simple_iteration_seven_circles |     |     |     |
-| 02_transitioning_rectangles       |     |     |     |
-| 03_string_art_challenge           |     |     |     |
-| 04_mini_calendar                  |     |     |     |
+| 01_simple_iteration_seven_circles |  ✓  |  ✓  |  ✓  |
+| 02_transitioning_rectangles       |  ✓  |  ✓  |  ✓  |
+| 03_string_art_challenge           |  ✓  |  ✓  |  ✓  |
+| 04_mini_calendar                  |  ✓  |  ✓  |  ✓  |
 | 05_receding_landscape             |     |     |     |
 | 06_lines_to_the_cursor            |     |     |     |
 | 07_color_bar_gradient             |     |     |     |
@@ -36,7 +54,7 @@
 | 16_hexagonal_grid                 |     |     |     |
 
 
-### Color
+### 03. Color
 
 | Exercise                     | Java| JS  |  PY |
 | :--------------------------- | --- | --- | --- |
@@ -54,7 +72,7 @@
 | 13_palette_from_photo        |     |     |     |
 
 
-### Conditional Testing  
+### 04. Conditional Testing  
 
 | Exercise                     | Java| JS  |  PY |
 | :--------------------------- | --- | --- | --- |
@@ -68,7 +86,7 @@
 | 08_state_machine_4           |     |     |     |
 
 
-### Unpredictability
+### 05. Unpredictability
 
 | Exercise                            | Java| JS  |  PY |
 | :---------------------------------- | --- | --- | --- |
@@ -87,7 +105,7 @@
 | 13_imaginary_islands                |     |     |     |
 
 
-### Arrays
+### 06. Arrays
 
 | Exercise                 | Java| JS  |  PY |
 | :----------------------- | --- | --- | --- |
@@ -101,7 +119,7 @@
 | 08_reordering_rectangles |     |     |     |
 
 
-### Time and Interactivity
+### 07. Time and Interactivity
 
 | Exercise                       | Java| JS  |  PY |
 | :----------------------------- | --- | --- | --- |
@@ -115,7 +133,7 @@
 | 08_audio_sensitive             |     |     |     |
 
 
-### Typography
+### 08. Typography
 
 | Exercise                   | Java| JS  |  PY |
 | :------------------------- | --- | --- | --- |
@@ -134,7 +152,7 @@
 | 13_ascii_vision            |     |     |     |
 
 
-### Curves
+### 09. Curves
 
 | Exercise                       | Java| JS  |  PY |
 | :----------------------------- | --- | --- | --- |
@@ -152,7 +170,7 @@
 | 12_shaping_functions           |     |     |     |
 
 
-### Shapes
+### 10. Shapes
 
 | Exercise                       | Java| JS  |  PY |
 | :----------------------------- | --- | --- | --- |
@@ -169,7 +187,7 @@
 | 11_blob                        |     |     |     |
 
 
-### Geometry
+### 11. Geometry
 
 | Exercise                             | Java| JS  |  PY |
 | :----------------------------------- | --- | --- | --- |
@@ -187,7 +205,7 @@
 | 12_triangle_incenter                 |     |     |     |
 
 
-### Image
+### 12. Image
 
 | Exercise                             | Java| JS  |  PY |
 | :----------------------------------- | --- | --- | --- |
@@ -201,7 +219,7 @@
 | 08_pixel_sort                        |     |     |     |
 
 
-### Visualization
+### 13. Visualization
 
 | Exercise                 | Java| JS  |  PY |
 | :----------------------- | --- | --- | --- |
@@ -220,7 +238,7 @@
 | 13_one_dataset_four_ways |     |     |     |
 
 
-### Text and Language
+### 14. Text and Language
 
 | Exercise                      | Java| JS  |  PY |
 | :---------------------------- | --- | --- | --- |
@@ -242,7 +260,7 @@
 | 17_limerick                   |     |     |     |
 
 
-### Simulation
+### 15. Simulation
 
 | Exercise                         | Java| JS  |  PY |
 | :------------------------------- | --- | --- | --- |
@@ -258,7 +276,7 @@
 | 13_differential_growth           |     |     |     |
 
 
-### Machine Learning 
+### 16. Machine Learning 
 
 | Exercise                     | Java| JS  |  PY |
 | :--------------------------- | --- | --- | --- |
@@ -268,7 +286,7 @@
 | 10_environmental_sound_clock |     |     |     |
 
 
-### Sound
+### 17. Sound
 
 | Exercise               | Java| JS  |  PY |
 | :--------------------- | --- | --- | --- |
@@ -280,7 +298,7 @@
 | 10_delay_line_effect   |     |     |     |
 
 
-### Games
+### 18. Games
 
 | Exercise               | Java| JS  |  PY |
 | :--------------------- | --- | --- | --- |

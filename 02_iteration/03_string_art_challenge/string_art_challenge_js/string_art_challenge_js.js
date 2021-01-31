@@ -7,6 +7,7 @@ function draw() {
   background(253);
   stroke(0);
   strokeWeight(8);
+  strokeCap(SQUARE);
   
   //sets amount of lines being drawn
   var nLines = 7;

@@ -35,12 +35,13 @@ def draw():
     
 def lengthOfMonth():
     m = month()
-    #hardcoded function tells how many days in a given month
+    # hardcoded function tells how many days in a given month
     if(m==1 or m==3 or m==5 or m==7 or m==8 or m==10 or m==31):
         return 31
     elif(m ==4 or m==6 or m==9 or m==11):
         return 30
     else:
         if (year()%4 == 0):
-            return 29  #leapyear
+            return 29  #leapyear. 
+            # note: needs correction for multiples of 100 & 400
         return 28

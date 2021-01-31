@@ -17,7 +17,7 @@ void draw() {
   // Using Java8, You can fetch the number of days in the current month. 
   // Beginners could hardcode numberOfDaysInMonth if necessary.
   YearMonth yearMonthObject = YearMonth.of (year(), month());
-  int numberOfDaysInMonth = 30; //yearMonthObject.lengthOfMonth(); 
+  int numberOfDaysInMonth = yearMonthObject.lengthOfMonth(); // e.g. 31
   int D = day(); 
 
   // Remember that days are usually counted from 1, not 0.
