@@ -4,7 +4,7 @@ The repository contains example solutions for the Exercises presented in [*Code 
 
 These solutions were developed and/or ported by Golan Levin and Tega Brain with the assistance of Lingdong Huang, Tatyana Mustakos, Cassie Scheirer, and Xinyi (Joyce) Wang. In some cases and where indicated, solutions have been adapted from code by Dan Shiffman and others. 
 
-Where possible, we have attempted to provide solutions in all of the following computer programming languages and toolkits. We welcome contributions, additional implementations, and ports to other languages and toolkits. 
+Wherever possible, we have attempted to provide solutions in all of the following computer programming languages and toolkits. We welcome contributions, additional implementations, and ports to other languages and toolkits. 
 
 * Java ([Processing](https://processing.org/))
 * Python ([Processing.py](https://py.processing.org/))
@@ -12,7 +12,9 @@ Where possible, we have attempted to provide solutions in all of the following c
 
 ### Acknowledgments
 
-This work was supported by grant #1855045–34–19 from the Media Arts Program of the National Endowment for the Arts; by a grant from the Frank-Ratchye Fund for Art at the Frontier, administered by the Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University; by support from the Integrative Design, Arts, and Technology (IDeATe) program at CMU; and through graduate assistantships from the Integrated Digital Media program at the Tandon School of Engineering, New York University.
+This work was supported by grant #1855045-4-19 from the Media Arts Program of the National Endowment for the Arts; by a grant from the Frank-Ratchye Fund for Art at the Frontier, administered by the Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University; by support from the Integrative Design, Arts, and Technology (IDeATe) program at CMU; and through graduate assistantships from the Integrated Digital Media program at the Tandon School of Engineering, New York University.
+
+![NEA Logo](resources/nea_logo.png)
 
 
 ---
